@@ -15,7 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="version_final"
+config/name="Juancito y sus Problemas"
 run/main_scene="res://Inicio/Inicio.tscn"
 config/icon="res://icon.png"
 

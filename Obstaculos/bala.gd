@@ -7,6 +7,10 @@ var salto =false
 signal choco
 # Called when the node enters the scene tree for the first time.
 func _ready():
+	if Score.anim == 1:
+		$bala.animation = "bala"
+	else:
+		$bala.animation = "bala2"
 	pass # Replace with function body.
 
 func _process(delta):

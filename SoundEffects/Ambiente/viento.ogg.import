@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/viento.ogg-f5ac5f13a65b8c58f43d9862da847728.oggstr"
+
+[deps]
+
+source_file="res://SoundEffects/Ambiente/viento.ogg"
+dest_files=[ "res://.import/viento.ogg-f5ac5f13a65b8c58f43d9862da847728.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
